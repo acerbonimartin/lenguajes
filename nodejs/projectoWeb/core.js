@@ -10,7 +10,7 @@ myEmitter.on('unEvento',function(mssg,int){
   console.log(mssg);
   console.log(`en numero 5 mas el numero ${int} suman ${int + 5}`);
 });
-
+//
 
 
 
